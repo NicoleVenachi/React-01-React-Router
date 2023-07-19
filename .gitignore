@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.env
+
+02 - Nested Routes/*
+03 - Search Params and Links/*
+04 - Loaders and Errors/*
+05 - Actions and Protected Routes/*
+06 - Deferred Data/*
