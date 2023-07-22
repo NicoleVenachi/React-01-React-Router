@@ -3,6 +3,5 @@ dist/
 .DS_Store
 *.env
 
-04 - Loaders and Errors/*
 05 - Actions and Protected Routes/*
 06 - Deferred Data/*
