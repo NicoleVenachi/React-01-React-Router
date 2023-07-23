@@ -3,5 +3,4 @@ dist/
 .DS_Store
 *.env
 
-05 - Actions and Protected Routes/*
 06 - Deferred Data/*
