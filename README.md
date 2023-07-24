@@ -1,4 +1,9 @@
-# ⚛️ Learn React Router 6 Course ⚛️
+# You can test it from:  
+https://vanlife-app-ppr-nl.netlify.app/
+
+-IMPORTANT- It is a project developed for small-devices
+
+# Learn React Router 6 Course  
 
 all the code/project comes from the course https://www.youtube.com/watch?v=nDGA3km5He4
 
